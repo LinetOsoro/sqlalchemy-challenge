@@ -1,0 +1,15 @@
+references for Mod 10
+
+https://www.w3schools.com/sql/sql_dates.asp
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.html
+
+https://stackoverflow.com/questions/24335452/how-do-i-find-data-from-this-day-exactly-one-year-ago
+
+https://stackoverflow.com/questions/51451768/sqlalchemy-querying-with-datetime-columns-to-filter-by-month-day-year
+
+https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_major_formatter.html
+
+https://flask.palletsprojects.com/en/3.0.x/
