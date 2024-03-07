@@ -134,4 +134,4 @@ def start_end_date(start_date, end_date):
     return jsonify(temp_stats)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
