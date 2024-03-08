@@ -45,7 +45,7 @@ def welcome():
         f"/api/v1.0/stations<br/>"
         f"/api/v1.0/tobs<br/>"
         f"/api/v1.0/start_date<br/>"
-        f"/api/v1.0/start_date/end_date"
+        f"/api/v1.0/start_date/end_date<br/>"
     )
 
 
